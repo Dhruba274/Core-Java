@@ -9,7 +9,7 @@ public class Frame_w1 {
         ArrayList <Integer> list = new ArrayList<>();
         list.add(3);
         list.add(4);
-       // list.add("Dhruba");ṇot possoible
+       // list.add("Dhruba");ṇot possoible as it is string datatype
         System.out.println(list);
         list.add(1,5);
         System.out.println(list);
